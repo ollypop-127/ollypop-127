@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ollypop-127
 - 👀 I’m interested in ... environmental data analysis
 - 🌱 I’m currently getting my Master's in Data Analytics and learning ... python, R, & SAS
-- 💞️ I’m looking to collaborate on ... nothing yet, just learning!
+- 💞️ I’m not looking to collaborate YET... just learning!
 - 😄 Pronouns: ... she/her/hers
 
 <!---
